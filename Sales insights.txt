@@ -1,0 +1,5 @@
+3-4 Quick Insights (from the dataset)
+- Top region by sales: West (725,457.82)
+- Top category by sales: Technology (836,154.03)
+- Highest sales month: 2017-11 (118,447.82)
+- Total profit across dataset: 286,397.02
